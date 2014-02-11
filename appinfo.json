@@ -1,0 +1,25 @@
+{
+    "versionLabel": "1.0.1",
+    "uuid": "1a5c0769-8dbf-439b-b697-d61500b374a8",
+    "appKeys": {},
+    "longName": "Presenter Timer Mod",
+    "versionCode": 2,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Timer",
+    "companyName": "edwin",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "MENU_ICON",
+                "file": "images/icon24.png"
+            }
+        ]
+    }
+}
